@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/craig-day/fetch-build-from-gcb#readme",
   "dependencies": {
-    "@actions/core": "^1.2.3",
+    "@actions/core": "^1.9.1",
     "google-auth-library": "^6.0.0"
   }
 }
